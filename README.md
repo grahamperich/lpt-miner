@@ -1,6 +1,6 @@
 # lpt-miner
 
-Simple LPT miner implementation. Pay gas to mine LPT automagically. Creates merkle proofs and submits them to the contract. Runs on a loop indefinitely. Will continue to mine LPT until the Etherem account in your keystore file runs out of ETH to pay gas. Tested on macOS. Likely works on linux too but your mileage may vary.
+Simple LPT miner implementation. Pay gas to mine LPT automagically. Creates merkle proofs and submits them to the contract. Set the `.env` file based on how many times you want to loop through the mining logic. Tested on macOS. Likely works on linux too but your mileage may vary.
 
 ## Requirements
 
