@@ -1,7 +1,7 @@
-const mineLpt = require('./src/mine-lpt.js');
+const mineLpt = require('./src/mine-lpt.js')
 
 const mine = async () => {
-    await mineLpt();
-};
+  await mineLpt()
+}
 
-mine();
+mine()

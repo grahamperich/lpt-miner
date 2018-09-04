@@ -1,3 +1,5 @@
 .idea
 .env
+keys/
+dump.rdb
 node_modules/
